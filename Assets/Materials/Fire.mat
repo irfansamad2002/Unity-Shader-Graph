@@ -40,6 +40,9 @@ Material:
     m_Floats:
     - _AngleOffset: 26
     - _CellDensity: 6
+    - _DisplacementScale: 30
+    - _DisplacementStrength: 0.15
+    - _Hardness: 0.25
     - _NoiseIntesity: 2
     - _QueueControl: 0
     - _QueueOffset: 0
